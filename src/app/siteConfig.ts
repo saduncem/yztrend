@@ -1,7 +1,7 @@
 export const siteConfig = {
-  name: "Planner",
-  url: "https://planner.tremor.so",
-  description: "The simplest dashboard template.",
+  name: "YZTrend",
+  url: "https://yztrend.com",
+  description: "YZTrend: Yapay zeka haberleri, trend analizleri ve günlük AI bülteni.",
   baseLinks: {
     quotes: {
       overview: "/quotes/overview",
